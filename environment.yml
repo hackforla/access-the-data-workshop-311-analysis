@@ -1,0 +1,26 @@
+name: data-literacy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7
+  - jupyterlab=3
+  - tqdm
+  - requests
+  - nodejs
+  - bqplot
+  - bokeh
+  - matplotlib
+  - ipywidgets
+  - ipyleaflet
+  - pandas
+  - geopandas
+  - osmnx
+  - xlrd
+  - qgrid
+  - openpyxl
+  - pyproj
+  - Shapely
+  - folium
+  - branca
+  - pyarrow
